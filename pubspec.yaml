@@ -1,0 +1,5 @@
+name: quran_dart_surah_makki_madani
+description: "Makki vs Madani Surah Stylometric Classifier"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
